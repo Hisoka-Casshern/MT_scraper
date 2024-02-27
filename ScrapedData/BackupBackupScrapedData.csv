@@ -1,0 +1,65 @@
+MMSI,Ship Name,Ship Type,Ship Type Specific,Lenght,Breadth,Max Speed,Average Speed
+111111111,62 LUOI C13 P3,-,-,10.0,6.0,0.0,0.0
+209855000,DUKE II,Tug,Tug,34.1,11.0,9.6,8.2
+215000815,LARIMAR II,Pleasure Craft,Pleasure Craft,26.0,6.0,13.5,10.8
+215072000,VALGARDENA,Tanker,Oil/Chemical Tanker,184.32,27.4,14.2,11.4
+215666000,AMARE II,Pleasure Craft,Yacht,49.78,8.0,13.1,12.2
+229113000,YOUR WISDOM,High Speed Craft,High Speed Craft,39.0,10.0,26.9,22.4
+229426000,BLISS,Pleasure Craft,Yacht,44.17,9.0,15.6,13.8
+229617000,PHOENIX2,Pleasure Craft,Yacht,90.01,14.2,14.9,14.2
+232006498,ABLE ONE,Pleasure Craft,Pleasure Craft,27.0,7.0,10.1,7.9
+235116083,BUSHIDO,Pleasure Craft,Yacht,38.0,7.0,12.0,10.9
+238003140,ATLANTIC,Passenger,Passenger,37.0,8.0,8.5,7.6
+238032540,MELODY,Passenger,Passenger,41.0,9.0,9.4,8.4
+238052740,ADMIRAL,Passenger,Passenger,45.0,9.0,8.8,8.2
+238054000,MALA SIRENA,High Speed Craft,High Speed Craft,26.65,9.02,19.9,18.7
+238060740,GRADINA1,Passenger,Passenger,39.0,8.0,6.8,6.6
+238081240,ROMANTIC STAR,Passenger,Passenger,46.0,9.0,0.0,6.6
+238101740,DALMATINO,Sailing Vessel,Sailing Vessel,43.0,8.0,8.7,7.3
+238113840,LASTOVO,Passenger,Ro-Ro/Passenger Ship,72.7,13.67,14.9,14.2
+238114140,POSTIRA,Passenger,Passenger/Cargo Ship,44.61,8.46,12.0,11.1
+238119940,KOMIZA,High Speed Craft,High Speed Craft,26.67,9.0,0.0,18.1
+238211140,MARKOC JEDAN,Fishing,Fishing,21.0,6.0,8.3,7.5
+238299299,UGOR,Fishing,Fishing,20.0,9.0,7.5,6.9
+238320540,RTOP 21,Military Ops,Military Ops,45.0,8.0,18.8,13.9
+238331840,SVETI ANTE,Fishing,"Inland, Unknown",18.0,4.0,7.6,6.1
+238377440,STELLA MARIS,Passenger,Passenger/Cargo Ship,44.71,8.21,9.9,9.4
+238407140,SVJETLICA,Fishing,Fishing,18.0,5.0,8.1,7.1
+238536710,PIETAS IULIA,Fishing,Fishing,0.0,0.0,8.4,8.1
+238557240,VOGA,Passenger,Trawler,30.71,6.99,9.7,9.1
+238687340,LADY GITA,Sailing Vessel,Sailing Vessel,43.0,8.0,8.4,7.1
+238769140,NEPTUN I,-,Fishing Vessel,39.9,8.65,12.7,11.9
+238777340,DINKO,Fishing,Trawler,0.0,0.0,0.0,7.5
+238778540,NEPTUN II,Fishing,Fishing Vessel,39.8,8.65,12.3,11.8
+238836740,BOZO,Fishing,Trawler,0.0,0.0,10.2,8.0
+238932340,RTOP 42,Military Ops,Military Ops,45.0,8.0,17.1,15.3
+238987910,PREKO,Fishing,Fishing Vessel,27.74,6.0,10.2,9.4
+238998210,MIRNA DVA,Fishing,Fishing,0.0,0.0,9.1,7.1
+247271400,MAGNIFICA,Tanker,Oil/Chemical Tanker,175.97,31.04,12.4,11.1
+247282600,ODOARDO AMORETTI,Tanker - Hazard A (Major),Oil/Chemical Tanker,140.0,22.0,13.5,12.4
+248217000,OMATHILDE,Pleasure Craft,Yacht,57.0,10.0,13.9,13.1
+249175000,DRAGON FLY 1,Pleasure Craft,Pleasure Craft,36.0,9.0,11.0,7.0
+249361000,FIONA,Cargo,General Cargo,108.2,18.2,10.5,8.1
+256796000,SAN PAWL,High Speed Craft,High Speed Craft,35.25,11.5,25.7,18.4
+319016400,WHISPER,Pleasure Craft,Pleasure Craft,36.0,7.0,9.7,8.9
+319095000,ALFA FISH,Pleasure Craft,Pleasure Craft,12.0,4.0,0.0,8.1
+319540000,VIVE LA VIE,Pleasure Craft,Yacht,59.4,11.42,14.7,10.7
+319985000,VARSOVIE,Sailing Vessel,Sailing Vessel,30.0,6.0,11.2,9.4
+339501000,WHITE KNIGHT,Pleasure Craft,Pleasure Craft,0.0,0.0,19.4,14.3
+354486000,AK PIONEER,Cargo,General Cargo,99.9,19.5,18.8,7.2
+357512000,ARDA,Cargo - Hazard C (Minor),General Cargo,98.06,14.51,9.9,8.2
+357627000,MSC OPERA,Passenger,Passenger Ship,274.9,28.8,19.9,19.2
+372371000,GEM STAR,Cargo,General Cargo,177.0,28.6,12.7,10.2
+372589000,RED STAR 1,Passenger,Passenger,100.0,18.0,0.0,0.0
+378111881,BELLE ANNA,Pleasure Craft,Yacht,49.95,8.6,12.0,11.0
+378112046,LIGHT HOLIC,Pleasure Craft,Yacht,59.5,10.21,13.8,11.3
+378327000,QUEST R,Pleasure Craft,Pleasure Craft,37.0,8.0,14.6,10.6
+518100714,ALL ABOUT U,Pleasure Craft,Yacht,50.0,11.0,13.7,13.4
+538004639,SAINT VASSILIOS,Cargo,Bulk Carrier,181.1,30.04,14.5,11.0
+538005893,ECO FLEET,Tanker - Hazard A (Major),Oil/Chemical Tanker,184.0,27.4,13.7,11.6
+538070599,TT INCEPTION,Pleasure Craft,Pleasure Craft,0.0,0.0,31.7,5.8
+538070685,DREAMER,Pleasure Craft,Pleasure Craft,41.0,8.0,9.3,7.4
+538071020,QUARANTA,Pleasure Craft,Yacht,33.7,9.0,10.5,8.5
+538071076,CALLIOPE,Pleasure Craft,Yacht,43.28,8.23,12.9,9.7
+620042000,DIAA,Cargo,General Cargo,96.32,12.45,9.0,7.5
+677040700,CROATIA,Cargo,General Cargo,100.0,11.0,7.5,5.6
